@@ -1,4 +1,4 @@
-[![Header](https://github.com/kuchinsk1y/kuchinsk1y/blob/main/assets/ghost.jpg)]
+![Header](https://github.com/kuchinsk1y/kuchinsk1y/blob/main/assets/ghost.jpg)
 
 ## I'm beginner Frontend Developer!
 
@@ -27,4 +27,39 @@ Football/Volleyball
 Ping-Pong
 <br>
 Books
+
+## Education 
+<h1>University of Customs</h1>
+
+Computer science
 <br>
+I am studying at the University of
+Customs, Faculty of Computer Science,
+doing projects.
+<br>
+<br>
+<br>
+<h1>Hillel IT School</h1>
+<h2>Front-end Basic</h2>
+There I learned how to translate designs
+of any complexity into layout, make
+websites that display equally well on any
+device, notice important little things and
+write code that is easy to expand and
+maintain, understand the structure of
+web pages.
+<br>
+<br>
+<br>
+<h1>Hillel IT School</h1>
+<h2>Front-end Pro</h2>
+We were taught there to interact with
+servers using JavaScript, Master OOP,
+Learn how to work with the REST API,
+Learn all the features of the React library,
+Learn all the nuances: from how the
+DOM works to how to build an
+application with Webpack.
+
+
+

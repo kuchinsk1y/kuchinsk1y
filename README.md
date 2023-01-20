@@ -1,4 +1,4 @@
-![Header](https://github.com/kuchinsk1y/kuchinsk1y/blob/main/assets/ghost.jpg)
+![Header](https://github.com/kuchinsk1y/kuchinsk1y/blob/main/assets/programming-languages.jpg)
 
 ## I'm beginner Frontend Developer!
 

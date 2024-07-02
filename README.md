@@ -11,7 +11,6 @@
 ![JQUERRY](https://img.shields.io/badge/-JQUERRY-orange)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-blueviolet)
 ![GIT](https://img.shields.io/badge/-GIT-black)
-![ES6](https://img.shields.io/badge/-ES6-yellow)
 ![DOM](https://img.shields.io/badge/-DOM-red)
 ![AJAX](https://img.shields.io/badge/-AJAX-blue)
 

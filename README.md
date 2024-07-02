@@ -14,16 +14,6 @@
 ![DOM](https://img.shields.io/badge/-DOM-red)
 ![AJAX](https://img.shields.io/badge/-AJAX-blue)
 
-## INTERESTs
-
-Computer games
-<br>
-Football/Volleyball
-<br>
-Ping-Pong
-<br>
-Books
-
 ## Education 
 <h1>University of Customs</h1>
 

@@ -10,6 +10,7 @@
 ![UI](https://img.shields.io/badge/-UI-black)
 ![JQUERRY](https://img.shields.io/badge/-JQUERRY-orange)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-blueviolet)
+![Tailwind](https://img.shields.io/badge/-TAILWIND-blue)
 ![GIT](https://img.shields.io/badge/-GIT-black)
 ![DOM](https://img.shields.io/badge/-DOM-red)
 ![AJAX](https://img.shields.io/badge/-AJAX-blue)

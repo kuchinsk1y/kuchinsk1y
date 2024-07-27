@@ -3,7 +3,7 @@
 ## I'm Frontend Developer!
 ## Languages and Tools
 
-![в](https://img.shields.io/badge/-HTML-red)
+![HTMl](https://img.shields.io/badge/-HTML-red)
 ![CSS/SASS](https://img.shields.io/badge/-CSS/SASS-pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 ![REACT](https://img.shields.io/badge/-REACT-blue)

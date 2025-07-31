@@ -6,6 +6,7 @@
 ![HTMl](https://img.shields.io/badge/-HTML-red)
 ![CSS/SASS](https://img.shields.io/badge/-CSS/SASS-pink)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
 ![REACT](https://img.shields.io/badge/-REACT-blue)
 ![UI](https://img.shields.io/badge/-UI-black)
 ![JQUERRY](https://img.shields.io/badge/-JQUERRY-orange)

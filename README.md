@@ -1,4 +1,4 @@
-![Header](https://github.com/kuchinsk1y/kuchinsk1y/blob/main/assets/programming-languages.jpg)
+
 
 ## I'm Frontend Developer!
 ## Languages and Tools

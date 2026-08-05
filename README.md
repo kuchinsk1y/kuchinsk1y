@@ -50,12 +50,14 @@ Developed modern ERP systems and internal management tools.
 
 ### 🛠️ Featured Pet Projects
 
-#### 🎯 [StrikeShop - Fullstack E-commerce & Event Management Platform](https://www.strikeshopaction.org.ua/)
+#### ⚡ [StrikeShop - Fullstack E-commerce & Event Management Platform](https://www.strikeshopaction.org.ua/)
 
-> *End-to-end airsoft event management ecosystem. Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations.*
+> **End-to-end airsoft event management ecosystem.** Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations.
 
-- **Stack:** `Next.js` `React` `TypeScript` `NestJS` `Prisma ORM` `PostgreSQL` `MongoDB` `Tailwind` `Vercel`
-- **Links:** 🌍 [Live Demo](https://www.strikeshopaction.org.ua/) &nbsp;&bull;&nbsp; 👨‍💻 [Source Code](https://github.com/kuchinsk1y/airsoft-management-system)
+**Built with:** 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+🌍 **[Live Demo](https://www.strikeshopaction.org.ua/)** &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **[Source Code](https://github.com/kuchinsk1y/airsoft-management-system)**
 
 ---
 

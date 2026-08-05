@@ -49,11 +49,16 @@ Developed modern ERP systems and internal management tools.
 ---
 
 ### 🛠️ Featured Pet Projects
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **[StrikeShop - Fullstack E-commerce & Event Management Platform](https://github.com/kuchinsk1y/airsoft-management-system)** | End-to-end airsoft event management ecosystem. Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations. | `Next.js` `Prisma ORM` `Tailwind` `React` `TypeScript` `PostgreSQL` `MongoDB` `Vercel` | [Live Demo](https://www.strikeshopaction.org.ua/) <br> [Source Code](https://github.com/kuchinsk1y/airsoft-management-system) |
+
+#### 🎯 [StrikeShop - Fullstack E-commerce & Event Management Platform](https://www.strikeshopaction.org.ua/)
+
+> *End-to-end airsoft event management ecosystem. Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations.*
+
+- **Stack:** `Next.js` `React` `TypeScript` `NestJS` `Prisma ORM` `PostgreSQL` `MongoDB` `Tailwind` `Vercel`
+- **Links:** 🌍 [Live Demo](https://www.strikeshopaction.org.ua/) &nbsp;&bull;&nbsp; 👨‍💻 [Source Code](https://github.com/kuchinsk1y/airsoft-management-system)
 
 ---
+
 
 ### ⚡ Workflow & AI Integration
 

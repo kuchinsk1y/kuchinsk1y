@@ -36,7 +36,7 @@ I'm a pragmatic Fullstack Developer with 3.5 years of commercial experience, spe
 
 ### 🏆 Key Experience
 
-#### **StrikeShop (CodeSolution)** | *Lead Developer*
+#### **StrikeShop (CodeSolution)** | *Fullstack Developer*
 Led a cross-functional team of 5 developers to build an airsoft event platform from the ground up. 
 - **Impact:** Scaled the platform to handle **50k+ active users**.
 - **Role:** Managed the entire lifecycle, from initial architecture and technical design to production deployment and team leadership.
@@ -45,6 +45,13 @@ Led a cross-functional team of 5 developers to build an airsoft event platform f
 Developed modern ERP systems and internal management tools.
 - **Impact:** Engineered solutions that reduced machinery downtime by **65%**.
 - **Efficiency:** Automated complex manual workflows that previously took days into seamless, instant processes.
+
+---
+
+### 🛠️ Featured Pet Projects
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[StrikeShop - Fullstack E-commerce & Event Management Platform](https://github.com/kuchinsk1y/airsoft-management-system)** | End-to-end airsoft event management ecosystem. Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations. | `Next.js` `Prisma ORM` `Tailwind` `React` `TypeScript` `PostgreSQL` `MongoDB` `Vercel` | [Live Demo](https://www.strikeshopaction.org.ua/) <br> [Source Code](https://github.com/kuchinsk1y/airsoft-management-system) |
 
 ---
 

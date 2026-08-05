@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Tymur kuchynskyi 👋</h1>
+<h1 align="center">Hi there, I'm Tymur Kuchynskyi 👋</h1>
 <h3 align="center">Fullstack Developer (React / Next.js) | Node.js | 3.5+ Years Exp | AI-Augmented Development</h3>
 
 <p align="center">

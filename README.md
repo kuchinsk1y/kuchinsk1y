@@ -48,26 +48,31 @@ Developed modern ERP systems and internal management tools.
 
 ---
 
-### 🛠️ Featured Pet Projects
+## 🛠️ Featured Projects
 
-#### ⚡ [StrikeShop - Fullstack E-commerce & Event Management Platform](https://www.strikeshopaction.org.ua/)
+<br>
 
-> **End-to-end airsoft event management ecosystem.** Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations.
+### ⚡ [StrikeShop](https://www.strikeshopaction.org.ua/) — *Fullstack E-commerce & Event Management*
 
-**Built with:** 
+End-to-end airsoft event management ecosystem. Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations.
+
+**Tech Stack:**<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-🌍 **[Live Demo](https://www.strikeshopaction.org.ua/)** &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **[Source Code](https://github.com/kuchinsk1y/airsoft-management-system)**
+🔗 **Links:** 🌍 [Live Demo](https://www.strikeshopaction.org.ua/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/kuchinsk1y/airsoft-management-system)
 
+---
 
-#### 👁️ [Nervenode - AI-Powered Web3 Wallet Intelligence & Analytics](https://nervenode-dashboard-web3.vercel.app/)
+### 👁️ [Nervenode](https://nervenode-dashboard-web3.vercel.app/) — *AI-Powered Web3 Wallet Intelligence*
 
-> **Institutional-grade Web3 intelligence for retail investors.** Unifies deep on-chain data extraction across EVM & SVM ecosystems with cutting-edge Large Language Models (OpenAI, Gemini, Anthropic). Features interactive 3D portfolio tracking, AI-driven risk assessment, and real-time wallet behavior analytics within a premium, glassmorphism-inspired UI.
+Institutional-grade Web3 intelligence for retail investors. Unifies deep on-chain data extraction across EVM & SVM ecosystems with cutting-edge Large Language Models (OpenAI, Gemini, Anthropic). Features interactive 3D portfolio tracking and AI-driven risk assessment within a premium UI.
 
-**Built with:** 
+**Tech Stack:**<br>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
 
-🌍 **[Live Demo](https://nervenode-dashboard-web3.vercel.app/)** &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **[Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)**
+🔗 **Links:** 🌍 [Live Demo](https://nervenode-dashboard-web3.vercel.app/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)
+
+<br>
 
 
 

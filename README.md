@@ -48,6 +48,7 @@ Developed modern ERP systems and internal management tools.
 
 ---
 
+
 ## 🛠️ Featured Projects
 
 <br>
@@ -73,7 +74,6 @@ Institutional-grade Web3 intelligence for retail investors. Unifies deep on-chai
 🔗 **Links:** 🌍 [Live Demo](https://nervenode-dashboard-web3.vercel.app/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)
 
 <br>
-
 
 
 ---

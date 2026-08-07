@@ -59,6 +59,18 @@ Developed modern ERP systems and internal management tools.
 
 🌍 **[Live Demo](https://www.strikeshopaction.org.ua/)** &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **[Source Code](https://github.com/kuchinsk1y/airsoft-management-system)**
 
+
+#### 👁️ [Nervenode - AI-Powered Web3 Wallet Intelligence & Analytics](https://nervenode-dashboard-web3.vercel.app/)
+
+> **Institutional-grade Web3 intelligence for retail investors.** Unifies deep on-chain data extraction across EVM & SVM ecosystems with cutting-edge Large Language Models (OpenAI, Gemini, Anthropic). Features interactive 3D portfolio tracking, AI-driven risk assessment, and real-time wallet behavior analytics within a premium, glassmorphism-inspired UI.
+
+**Built with:** 
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+
+🌍 **[Live Demo](https://nervenode-dashboard-web3.vercel.app/)** &nbsp;&nbsp;|&nbsp;&nbsp; 🐙 **[Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)**
+
+
+
 ---
 
 

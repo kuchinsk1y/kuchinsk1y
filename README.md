@@ -1,20 +1,27 @@
-<h1 align="center">Hi there, I'm Tymur Kuchynskyi 👋</h1>
-<h3 align="center">Fullstack Developer (React / Next.js) | Node.js | 3.5+ Years Exp | AI-Augmented Development</h3>
+<h1 align="center">Hi, I'm Tymur Kuchynskyi 👋</h1>
+
+<h3 align="center">
+Fullstack Developer | React / Next.js | Node.js / NestJS | TypeScript
+</h3>
 
 <p align="center">
-I'm a pragmatic Fullstack Developer with 3.5 years of commercial experience, specializing in the React/Next.js ecosystem. I believe that a developer’s ultimate job is to solve business problems. I am most effective in fast-paced environments where I can take full ownership of a feature and deliver it end-to-end.
+Fullstack Developer with 3.5+ years of commercial experience building
+production web applications and internal business systems.
 </p>
 
 ---
 
-### 🚀 Key Focus Areas
+### 👨‍💻 About Me
 
-- **Scalable Architecture:** I prioritize modular project structures, heavily utilizing **Feature-Sliced Design (FSD)**, to keep codebases maintainable and predictable as they scale.
-- **AI-Augmented Development:** I leverage AI tools to handle routine tasks and boilerplate, achieving super-fast coding speeds so I can spend my cognitive bandwidth on complex business logic and system design.
+- Fullstack Developer focused on React, Next.js, Node.js, and TypeScript.
+- Experience building production applications, internal ERP systems, and business automation tools.
+- Comfortable working across frontend, backend, databases, APIs, authentication, and deployment.
+- Experience leading a small development team and coordinating feature delivery.
+- Interested in AI-assisted development and practical applications of AI in web products.
 
 ---
 
-### 💻 Tech Stack
+### 🛠️ Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -23,67 +30,92 @@ I'm a pragmatic Fullstack Developer with 3.5 years of commercial experience, spe
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <br />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <br />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
 </div>
 
 ---
 
-### 🏆 Key Experience
+## 🚀 Featured Projects
 
-#### **StrikeShop (CodeSolution)** | *Fullstack Developer*
-Led a cross-functional team of 5 developers to build an airsoft event platform from the ground up. 
-- **Impact:** Scaled the platform to handle **50k+ active users**.
-- **Role:** Managed the entire lifecycle, from initial architecture and technical design to production deployment and team leadership.
+### StrikeShop — Airsoft Event Management Platform
 
-#### **ISPIK** | *Fullstack Developer*
-Developed modern ERP systems and internal management tools.
-- **Impact:** Engineered solutions that reduced machinery downtime by **65%**.
-- **Efficiency:** Automated complex manual workflows that previously took days into seamless, instant processes.
+Fullstack platform for managing airsoft events, bookings, users,
+equipment rentals, and inventory.
 
----
+- Developed and scaled the platform to 50,000+ users.
+- Led a team of 5 developers and coordinated feature delivery.
+- Implemented RBAC and protected APIs for different user roles.
+- Built rental and inventory management with transactional stock updates.
+- Developed an admin dashboard for events, bookings, users, and inventory.
+- Set up Docker-based development and deployment workflows with Vercel.
 
+**Tech:** Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma,
+Tailwind CSS, MongoDB, Docker, Vercel
 
-## 🛠️ Featured Projects
-
-<br>
-
-### ⚡ [StrikeShop](https://www.strikeshopaction.org.ua/) — *Fullstack E-commerce & Event Management*
-
-End-to-end airsoft event management ecosystem. Replaced manual workflows with an automated inventory/rental module and a unified admin dashboard. Secured by API-level RBAC and built with a mobile-first approach for seamless on-field operations.
-
-**Tech Stack:**<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-
-🔗 **Links:** 🌍 [Live Demo](https://www.strikeshopaction.org.ua/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/kuchinsk1y/airsoft-management-system)
+🔗 [Live Demo](https://www.strikeshopaction.org.ua/) |
+🐙 [Source Code](https://github.com/kuchinsk1y/airsoft-management-system)
 
 ---
 
-### 👁️ [Nervenode](https://nervenode-dashboard-web3.vercel.app/) — *AI-Powered Web3 Wallet Intelligence*
+### Nervenode — Blockchain Wallet Analytics Platform
 
-Institutional-grade Web3 intelligence for retail investors. Unifies deep on-chain data extraction across EVM & SVM ecosystems with cutting-edge Large Language Models (OpenAI, Gemini, Anthropic). Features interactive 3D portfolio tracking and AI-driven risk assessment within a premium UI.
+Web application for tracking wallet activity, portfolio data,
+and on-chain risk indicators.
 
-**Tech Stack:**<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white" /> <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3.js&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+- Built wallet tracking for token holdings, PnL, and asset concentration.
+- Implemented on-chain risk scoring for potentially malicious smart contracts.
+- Integrated an AI assistant for natural-language queries over wallet data.
+- Built localization support for 8 languages.
+- Implemented OAuth authentication with Google, Discord, and X.
+- Developed a responsive interface with Tailwind CSS and Framer Motion.
 
-🔗 **Links:** 🌍 [Live Demo](https://nervenode-dashboard-web3.vercel.app/) &nbsp;|&nbsp; 🐙 [Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)
+**Tech:** React, Next.js, TypeScript, Supabase, Prisma,
+Tailwind CSS, Framer Motion, AI SDK
 
-<br>
+🔗 [Live Demo](https://nervenode-dashboard-web3.vercel.app/) |
+🐙 [Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)
 
+---
+
+## 💼 Commercial Experience
+
+### ISPIK — Fullstack Developer
+
+Developing internal ERP and business automation systems.
+
+- Built an equipment management platform that reduced machinery downtime by 65%.
+- Replaced manual Excel-based workflows with an automated approval system,
+  reducing processing time from 2 days to under 30 minutes.
+- Developed mobile-responsive reporting tools, reducing field reporting time by 70%.
+- Implemented RBAC and authentication for internal management interfaces.
+- Automated payroll and attendance workflows using Google Workspace APIs
+  and Google Apps Script.
 
 ---
 
+## 🤖 AI-Assisted Development
 
-### ⚡ Workflow & AI Integration
+I use AI tools as part of my development workflow for:
 
-In modern development, speed and quality shouldn't be a trade-off. I actively treat AI as a powerful pair-programmer in my daily workflow to:
-1. Automate repetitive boilerplate and routine coding.
-2. Rapidly prototype and iterate on new features.
-3. Free up time to focus purely on high-level architecture, code cleanliness, and delivering tangible business value fast.
+- Exploring and prototyping solutions
+- Boilerplate and repetitive tasks
+- Debugging and code review
+- Documentation and technical research
+
+I treat AI as a development tool while keeping technical decisions,
+code quality, and implementation under my responsibility.
 
 ---
+
+### 📫 Contact
+
+- LinkedIn: [LinkedIn](...)
+- Email: ...
+- GitHub: ...

@@ -27,46 +27,13 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
 
 ## 🧰 Tech stack
 
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=js,ts" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux" alt="Frontend" />
-      <img src="https://img.shields.io/badge/Zustand-433E38?style=for-the-badge" alt="Zustand" height="48" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,mongodb,supabase" alt="Backend" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Testing</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=jest" alt="Testing" />
-      <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white" alt="React Testing Library" height="48" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools &amp; DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,docker,vercel,jira,postman,figma" alt="Tools" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>AI tools</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" height="48" />
-    </td>
-  </tr>
-</table>
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,nestjs,postgres,mongodb,prisma,supabase,tailwind,redux,jest,docker,vercel,git,figma,postman&perline=9" alt="Tech stack" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" alt="Zustand" /> <img src="https://img.shields.io/badge/React_Testing_Library-E33332?style=flat-square&logo=testinglibrary&logoColor=white" alt="React_Testing_Library" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white" alt="Claude" />
+</p>
 
 <br />
 
@@ -87,7 +54,7 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
         <li>CI/CD and production deploys on Vercel</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,postgres,prisma,tailwind,docker" alt="StrikeShop stack" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p>
         <a href="https://www.strikeshopaction.org.ua/"><img src="https://img.shields.io/badge/Live_demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>
@@ -107,7 +74,7 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
         <li>Responsive UI with Tailwind and Framer Motion</li>
       </ul>
       <p>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,ts,supabase,prisma,tailwind,vercel" alt="Nervenode stack" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" /> <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer_Motion" /> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
       </p>
       <p>
         <a href="https://nervenode-dashboard-web3.vercel.app/"><img src="https://img.shields.io/badge/Live_demo-2563eb?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo" /></a>

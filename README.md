@@ -1,121 +1,75 @@
-<h1 align="center">Hi, I'm Tymur Kuchynskyi 👋</h1>
-
-<h3 align="center">
-Fullstack Developer | React / Next.js | Node.js / NestJS | TypeScript
-</h3>
+<h1 align="center">Hi, I'm Tymur 👋</h1>
 
 <p align="center">
-Fullstack Developer with 3.5+ years of commercial experience building
-production web applications and internal business systems.
+  Fullstack developer · React / Next.js · Node.js / NestJS · TypeScript
+</p>
+
+<p align="center">
+  I build production web apps and internal business systems.<br />
+  3.5+ years of commercial experience, from UI to database to deployment.
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### About
 
-- Fullstack Developer focused on React, Next.js, Node.js, and TypeScript.
-- Experience building production applications, internal ERP systems, and business automation tools.
-- Comfortable working across frontend, backend, databases, APIs, authentication, and deployment.
-- Experience leading a small development team and coordinating feature delivery.
-- Interested in AI-assisted development and practical applications of AI in web products.
+- Work across the whole stack: frontend, APIs, databases, auth, deployment
+- Built internal ERP and automation tools that replaced manual, spreadsheet-based processes
+- Led a small team of 5 developers on a product with 50,000+ users
+- Curious about practical uses of AI in web products
 
----
+### Tech stack
 
-### 🛠️ Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <br />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt="Prisma" />
-  <br />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,postgres,mongodb,prisma,tailwind,docker,vercel,git&perline=13" alt="Tech stack" />
+</p>
 
 ---
 
-## 🚀 Featured Projects
+### Featured projects
 
-### StrikeShop — Airsoft Event Management Platform
+#### [StrikeShop](https://github.com/kuchinsk1y/airsoft-management-system) · [live](https://www.strikeshopaction.org.ua/)
+Airsoft event management platform: bookings, users, equipment rentals and inventory.
 
-Fullstack platform for managing airsoft events, bookings, users,
-equipment rentals, and inventory.
+- Grew to 50,000+ users; led a team of 5 developers
+- Role-based access control and protected APIs
+- Rentals and inventory with transactional stock updates
+- Admin dashboard for events, bookings, users and inventory
+- Docker-based dev and deployment workflow, hosted on Vercel
 
-- Developed and scaled the platform to 50,000+ users.
-- Led a team of 5 developers and coordinated feature delivery.
-- Implemented RBAC and protected APIs for different user roles.
-- Built rental and inventory management with transactional stock updates.
-- Developed an admin dashboard for events, bookings, users, and inventory.
-- Set up Docker-based development and deployment workflows with Vercel.
+`Next.js` `React` `TypeScript` `NestJS` `PostgreSQL` `Prisma` `MongoDB` `Tailwind` `Docker`
 
-**Tech:** Next.js, React, TypeScript, NestJS, PostgreSQL, Prisma,
-Tailwind CSS, MongoDB, Docker, Vercel
+#### [Nervenode](https://github.com/kuchinsk1y/nervenode-dashboard-web3) · [live](https://nervenode-dashboard-web3.vercel.app/)
+Blockchain wallet analytics: holdings, PnL, asset concentration and on-chain risk indicators.
 
-🔗 [Live Demo](https://www.strikeshopaction.org.ua/) |
-🐙 [Source Code](https://github.com/kuchinsk1y/airsoft-management-system)
+- Risk scoring for potentially malicious smart contracts
+- AI assistant for natural-language questions about wallet data
+- 8 languages, OAuth via Google, Discord and X
 
----
-
-### Nervenode — Blockchain Wallet Analytics Platform
-
-Web application for tracking wallet activity, portfolio data,
-and on-chain risk indicators.
-
-- Built wallet tracking for token holdings, PnL, and asset concentration.
-- Implemented on-chain risk scoring for potentially malicious smart contracts.
-- Integrated an AI assistant for natural-language queries over wallet data.
-- Built localization support for 8 languages.
-- Implemented OAuth authentication with Google, Discord, and X.
-- Developed a responsive interface with Tailwind CSS and Framer Motion.
-
-**Tech:** React, Next.js, TypeScript, Supabase, Prisma,
-Tailwind CSS, Framer Motion, AI SDK
-
-🔗 [Live Demo](https://nervenode-dashboard-web3.vercel.app/) |
-🐙 [Source Code](https://github.com/kuchinsk1y/nervenode-dashboard-web3)
+`Next.js` `React` `TypeScript` `Supabase` `Prisma` `Tailwind` `Framer Motion` `AI SDK`
 
 ---
 
-## 💼 Commercial Experience
+### Experience
 
-### ISPIK — Fullstack Developer
+**Fullstack Developer, ISPIK**: internal ERP and automation systems
 
-Developing internal ERP and business automation systems.
-
-- Built an equipment management platform that reduced machinery downtime by 65%.
-- Replaced manual Excel-based workflows with an automated approval system,
-  reducing processing time from 2 days to under 30 minutes.
-- Developed mobile-responsive reporting tools, reducing field reporting time by 70%.
-- Implemented RBAC and authentication for internal management interfaces.
-- Automated payroll and attendance workflows using Google Workspace APIs
-  and Google Apps Script.
+- Equipment management platform that cut machinery downtime by 65%
+- Automated approval flow replacing Excel: from 2 days to under 30 minutes
+- Mobile-friendly field reporting, 70% less time spent on reports
+- Payroll and attendance automation with Google Workspace APIs and Apps Script
 
 ---
 
-## 🤖 AI-Assisted Development
+### Contact
 
-I use AI tools as part of my development workflow for:
+[![GitHub](https://img.shields.io/badge/GitHub-kuchinsk1y-181717?style=flat&logo=github&logoColor=white)](https://github.com/kuchinsk1y)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tymur_Kuchynskyi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+[![Email](https://img.shields.io/badge/Email-write_me-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL)
 
-- Exploring and prototyping solutions
-- Boilerplate and repetitive tasks
-- Debugging and code review
-- Documentation and technical research
+<br />
 
-I treat AI as a development tool while keeping technical decisions,
-code quality, and implementation under my responsibility.
-
----
-
-### 📫 Contact
-
-- LinkedIn: [LinkedIn](...)
-- Email: ...
-- GitHub: ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kuchinsk1y&show_icons=true&hide_border=true&theme=transparent&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="150" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuchinsk1y&layout=compact&hide_border=true&theme=transparent&title_color=58a6ff&text_color=8b949e" height="150" alt="Top languages" />
+</p>

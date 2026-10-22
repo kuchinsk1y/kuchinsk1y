@@ -129,6 +129,7 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
 | --- | --- | --- | --- |
 | **La Valleri Hotel** | Hotel landing page built from a Figma design: parallax, reveal animations, static export | Next.js · TypeScript · Tailwind · Motion | [Demo](https://kuchinsk1y.github.io/la-hotel-landing/) · [Code](https://github.com/kuchinsk1y/la-hotel-landing) |
 | **De Arco** | Interior design studio website, multilingual, with smooth scrolling | React · Vite · TypeScript · i18next | [Demo](https://kuchinsk1y.github.io/dearco-interior-studio/) · [Code](https://github.com/kuchinsk1y/dearco-interior-studio) |
+| **CityLights Estate** | Real estate landing page built from a Figma design: parallax hero, animated counters, apartment gallery, static export | Next.js · TypeScript · Tailwind · Motion | [Demo](https://kuchinsk1y.github.io/citylights-estate-landing/) · [Code](https://github.com/kuchinsk1y/citylights-estate-landing) |
 
 <br />
 

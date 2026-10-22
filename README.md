@@ -124,32 +124,9 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
 
 ## 🎓 Education &amp; languages
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Education</h3>
-      <p>
-        <b>Bachelor of Computer Science</b><br />
-        <sub>University of Customs and Finance</sub>
-      </p>
-      <p>
-        <b>Full-Stack JavaScript</b><br />
-        <sub>Hillel IT School</sub>
-      </p>
-      <p>
-        <b>Front-end Pro</b><br />
-        <sub>Hillel IT School</sub>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Languages</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Ukrainian-Native-2563eb?style=flat-square" alt="Ukrainian Native" /> <img src="https://img.shields.io/badge/Russian-Native-2563eb?style=flat-square" alt="Russian Native" /><br />
-        <img src="https://img.shields.io/badge/English-B2-0f172a?style=flat-square" alt="English B2" /> <img src="https://img.shields.io/badge/Polish-A1-475569?style=flat-square" alt="Polish A1" />
-      </p>
-    </td>
-  </tr>
-</table>
+- **Bachelor of Computer Science**, University of Customs and Finance
+- **Full-Stack JavaScript** and **Front-end Pro**, Hillel IT School
+- Ukrainian (native) · Russian (native) · English (B2) · Polish (A1)
 
 <br />
 

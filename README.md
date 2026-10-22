@@ -1,9 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=170&section=header&text=Tymur%20Kuchynskyi&fontColor=ffffff&fontSize=44&fontAlignY=38&desc=Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%" alt="header" />
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3000&pause=1200&color=60A5FA&center=true&vCenter=true&width=520&lines=React+%C2%B7+Next.js+%C2%B7+TypeScript;Node.js+%C2%B7+NestJS+%C2%B7+PostgreSQL;Production+apps+and+internal+business+systems" alt="Typing SVG" />
-  </a>
+  <sub>React · Next.js · TypeScript · Node.js · NestJS · PostgreSQL</sub><br />
+  <sub>Production apps and internal business systems</sub>
 </p>
 
 <p align="center">
@@ -22,6 +21,42 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
 - 🏗️ Building an ERP platform for construction project management
 - 👥 Leading a team of 5 developers on an event management platform
 - 🤖 Using AI tools in my daily workflow and interested in practical AI features in web products
+
+<br />
+
+## 💼 Experience
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Full-Stack Developer · ISPIK</h3>
+      <sub>Jan 2024 – Present · Full-time</sub>
+      <br /><br />
+      <ul>
+        <li>Developed and maintained an ERP platform for construction project management: planning, budgeting, scheduling, progress tracking, dashboards and RBAC</li>
+        <li>Built a centralized equipment ordering system that replaced phone requests and cut equipment downtime and related losses by <b>~85%</b></li>
+        <li>Designed REST APIs, database schemas and backend services for core business workflows and integrations</li>
+        <li>Automated processes across several departments</li>
+        <li>Owned features end to end: requirements, database design, deployment, maintenance</li>
+      </ul>
+      <sub><code>React</code> <code>Next.js</code> <code>NestJS</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Tailwind</code> <code>Docker</code> <code>Google Workspace APIs</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>Full-Stack Developer · CodeSolution</h3>
+      <sub>Nov 2025 – Present · Part-time</sub>
+      <br /><br />
+      <ul>
+        <li>Developed and maintained the StrikeShop event management platform: events, bookings, player registration, gear rental</li>
+        <li>Led a team of 5 developers: architecture, planning, code reviews, releases</li>
+        <li>Implemented RBAC and API authorization for player, organizer and admin roles</li>
+        <li>Built rental and inventory modules with transactional stock updates and optimized PostgreSQL queries</li>
+        <li>Turned Figma designs into responsive React pages and reusable components</li>
+        <li>Set up CI/CD with Vercel and maintained production deployments</li>
+      </ul>
+      <sub><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Tailwind</code> <code>Docker</code> <code>Vercel</code></sub>
+    </td>
+  </tr>
+</table>
 
 <br />
 
@@ -94,42 +129,6 @@ Full-stack developer with 3.5+ years of commercial experience. I build productio
 | --- | --- | --- | --- |
 | **La Valleri Hotel** | Hotel landing page built from a Figma design: parallax, reveal animations, static export | Next.js · TypeScript · Tailwind · Motion | [Demo](https://kuchinsk1y.github.io/la-hotel-landing/) · [Code](https://github.com/kuchinsk1y/la-hotel-landing) |
 | **De Arco** | Interior design studio website, multilingual, with smooth scrolling | React · Vite · TypeScript · i18next | [Demo](https://kuchinsk1y.github.io/dearco-interior-studio/) · [Code](https://github.com/kuchinsk1y/dearco-interior-studio) |
-
-<br />
-
-## 💼 Experience
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Full-Stack Developer · ISPIK</h3>
-      <sub>Jan 2024 – Present · Full-time</sub>
-      <br /><br />
-      <ul>
-        <li>Developed and maintained an ERP platform for construction project management: planning, budgeting, scheduling, progress tracking, dashboards and RBAC</li>
-        <li>Built a centralized equipment ordering system that replaced phone requests and cut equipment downtime and related losses by <b>~85%</b></li>
-        <li>Designed REST APIs, database schemas and backend services for core business workflows and integrations</li>
-        <li>Automated processes across several departments</li>
-        <li>Owned features end to end: requirements, database design, deployment, maintenance</li>
-      </ul>
-      <sub><code>React</code> <code>Next.js</code> <code>NestJS</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Tailwind</code> <code>Docker</code> <code>Google Workspace APIs</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Full-Stack Developer · CodeSolution</h3>
-      <sub>Nov 2025 – Present · Part-time</sub>
-      <br /><br />
-      <ul>
-        <li>Developed and maintained the StrikeShop event management platform: events, bookings, player registration, gear rental</li>
-        <li>Led a team of 5 developers: architecture, planning, code reviews, releases</li>
-        <li>Implemented RBAC and API authorization for player, organizer and admin roles</li>
-        <li>Built rental and inventory modules with transactional stock updates and optimized PostgreSQL queries</li>
-        <li>Turned Figma designs into responsive React pages and reusable components</li>
-        <li>Set up CI/CD with Vercel and maintained production deployments</li>
-      </ul>
-      <sub><code>React</code> <code>Next.js</code> <code>TypeScript</code> <code>Node.js</code> <code>PostgreSQL</code> <code>Prisma</code> <code>Tailwind</code> <code>Docker</code> <code>Vercel</code></sub>
-    </td>
-  </tr>
-</table>
 
 <br />
 
